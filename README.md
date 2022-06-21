@@ -1,0 +1,1 @@
+No es una guía, mas sin embargo, si quieren tomar los ejercicios, pueden hacerlo. Los ejercicios están hechos a mi manera y funcionan, pero no son identicos a como se esperaba en la web de donde saqué los ejercicios. WEB: https://aprendeconalf.es/docencia/python/ejercicios/programacion-funcional/#ejercicio-10
